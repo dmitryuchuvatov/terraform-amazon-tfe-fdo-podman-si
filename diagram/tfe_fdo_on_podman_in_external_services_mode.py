@@ -16,7 +16,8 @@ with Diagram("TFE FDO on Podman in External Services mode", show=False, directio
         with Cluster("VPC"):
             with Cluster("Public Subnet"):
                 tfe_instance = EC2("RHEL instance")
-        with Cluster("Private Subnet"):
+
+            with Cluster("Private Subnet"):
                 postgres = RDSPostgresqlInstance("PostgreSQL")
 
         s3bucket = SimpleStorageServiceS3Bucket("S3 bucket")        
