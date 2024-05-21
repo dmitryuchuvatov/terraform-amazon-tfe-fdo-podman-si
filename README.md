@@ -9,7 +9,7 @@
 
 # Diagram
 
-
+![tfe_fdo_on_podman_in_external_services_mode](https://github.com/dmitryuchuvatov/terraform-amazon-tfe-fdo-podman-si/assets/119931089/f1c984ac-c083-4f43-ae64-0376a187f5bd)
 
 
 # How To
