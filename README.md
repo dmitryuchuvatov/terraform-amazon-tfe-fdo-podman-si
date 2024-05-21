@@ -1,4 +1,4 @@
-# Terraform Enterprise Flexible Deployment Options in External Services mode on AWS
+# Terraform Enterprise Flexible Deployment Options in External Services mode on Podman (AWS)
 
 # Prerequisites
 * Install [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
@@ -9,7 +9,7 @@
 
 # Diagram
 
-![tfe_fdo_on_podman_in_external_services_mode](https://github.com/dmitryuchuvatov/terraform-amazon-tfe-fdo-podman-si/assets/119931089/f1c984ac-c083-4f43-ae64-0376a187f5bd)
+![tfe_fdo_on_podman_in_external_services_mode](https://github.com/dmitryuchuvatov/terraform-amazon-tfe-fdo-podman-si/assets/119931089/9667f1e6-9237-42c0-bd39-54c76f4ace40)
 
 
 # How To
